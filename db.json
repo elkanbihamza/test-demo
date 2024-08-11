@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": "dddc",
+      "firstName": "Hamza",
+      "lastName": "El Kanbi",
+      "address": "test"
+    },
+    {
+      "id": "773e",
+      "firstName": "Hamza",
+      "lastName": "Hamza",
+      "address": "test"
+    }
+  ]
+}
